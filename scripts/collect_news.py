@@ -271,9 +271,25 @@ def sort_key(it: dict):
     return it.get("startsAt") or it.get("fetchedAt") or ""
 
 
-def merge(items: list[dict]) -> dict:
-    # id で重複排除。新しい fetchedAt を優先
+def load_existing() -> list[dict]:
+    if not OUT.exists():
+        return []
+    try:
+        payload = json.loads(OUT.read_text(encoding="utf-8"))
+    except Exception:
+        return []
+    items = payload.get("items") if isinstance(payload, dict) else None
+    return items if isinstance(items, list) else []
+
+
+def merge(items: list[dict], *, keep_existing: bool = True) -> dict:
+    # id で重複排除。新しい fetchedAt を優先。
+    # 片方の情報源が失敗しても、既存JSONの当該ソースを消さない。
     by_id: dict[str, dict] = {}
+    if keep_existing:
+        for it in load_existing():
+            if isinstance(it, dict) and it.get("id"):
+                by_id[it["id"]] = it
     for it in items:
         prev = by_id.get(it["id"])
         if not prev or (it.get("fetchedAt") or "") >= (prev.get("fetchedAt") or ""):
