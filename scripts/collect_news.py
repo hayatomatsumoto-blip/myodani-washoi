@@ -26,7 +26,10 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 OUT = ROOT / "data" / "news.json"
 
-UA = "myodani-washoi-news-collector/1.0 (+https://github.com/hayatomatsumoto-blip/myodani-washoi)"
+UA = (
+    "Mozilla/5.0 (compatible; MyodaniWashoiBot/1.0; +https://github.com/hayatomatsumoto-blip/myodani-washoi) "
+    "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+)
 PATIO_TYPES = ("event", "news", "shopnews")
 ODEKAKE_SITEMAP = "https://event.city.kobe.lg.jp/sitemap.xml"
 
@@ -54,10 +57,27 @@ MYODANI_KEYWORDS = (
 TARUMI_EXCLUDE = ("垂水区名谷町", "垂水区名谷")
 
 
-def fetch(url: str, timeout: int = 30) -> str:
-    req = urllib.request.Request(url, headers={"User-Agent": UA, "Accept": "*/*"})
-    with urllib.request.urlopen(req, timeout=timeout) as res:
-        return res.read().decode("utf-8", "replace")
+def fetch(url: str, timeout: int = 30, retries: int = 2) -> str:
+    last_err: Exception | None = None
+    for attempt in range(retries + 1):
+        req = urllib.request.Request(
+            url,
+            headers={
+                "User-Agent": UA,
+                "Accept": "application/json,text/html,*/*",
+                "Accept-Language": "ja,en;q=0.8",
+            },
+        )
+        try:
+            with urllib.request.urlopen(req, timeout=timeout) as res:
+                return res.read().decode("utf-8", "replace")
+        except Exception as e:
+            last_err = e
+            if attempt < retries:
+                import time
+                time.sleep(1.5 * (attempt + 1))
+    assert last_err is not None
+    raise last_err
 
 
 def strip_html(text: str) -> str:
@@ -101,7 +121,7 @@ def collect_patio() -> list[dict]:
         page = 1
         while page <= 20:
             url = (
-                f"https://patio.gr.jp/wp-json/wp/v2/{ptype}"
+                f"https://www.patio.gr.jp/wp-json/wp/v2/{ptype}"
                 f"?per_page=50&page={page}"
                 f"&_fields=id,title,link,date,excerpt"
             )
@@ -267,13 +287,35 @@ def merge(items: list[dict]) -> dict:
 
 
 def main() -> int:
+    patio: list[dict] = []
+    odekake: list[dict] = []
+    errors: list[str] = []
+
     print("collect patio…", flush=True)
-    patio = collect_patio()
-    print(f"  patio: {len(patio)}", flush=True)
+    try:
+        patio = collect_patio()
+        print(f"  patio: {len(patio)}", flush=True)
+    except Exception as e:
+        errors.append(f"patio: {e}")
+        print(f"  patio FAILED: {e}", flush=True)
+
     print("collect odekake…", flush=True)
-    odekake = collect_odekake()
-    print(f"  odekake(myodani): {len(odekake)}", flush=True)
+    try:
+        odekake = collect_odekake()
+        print(f"  odekake(myodani): {len(odekake)}", flush=True)
+    except Exception as e:
+        errors.append(f"odekake: {e}")
+        print(f"  odekake FAILED: {e}", flush=True)
+
+    if not patio and not odekake:
+        print("ERROR: both sources failed", flush=True)
+        for err in errors:
+            print(" ", err, flush=True)
+        return 1
+
     payload = merge(patio + odekake)
+    if errors:
+        payload["warnings"] = errors
     OUT.parent.mkdir(parents=True, exist_ok=True)
     OUT.write_text(
         json.dumps(payload, ensure_ascii=False, indent=2) + "\n", encoding="utf-8"
