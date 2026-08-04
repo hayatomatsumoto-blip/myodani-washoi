@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-04T02:01:28Z",
-  "count": 43,
+  "updatedAt": "2026-08-04T02:08:07Z",
+  "count": 14,
   "items": [
     {
       "id": "odekake-khNknIIKB34sXtP0IbKS",
@@ -10,7 +10,7 @@
       "source": "おでかけKOBE",
       "startsAt": "2026-10-13T00:00:00.000Z",
       "endsAt": "2026-10-13T00:00:00.000Z",
-      "fetchedAt": "2026-08-04T02:00:22Z"
+      "fetchedAt": "2026-08-04T02:07:10Z"
     },
     {
       "id": "odekake-ExFfZTSeeh7zXZ5bQ7TI",
@@ -20,7 +20,7 @@
       "source": "おでかけKOBE",
       "startsAt": "2026-09-09T00:00:00.000Z",
       "endsAt": "2026-09-09T00:00:00.000Z",
-      "fetchedAt": "2026-08-04T01:59:55Z"
+      "fetchedAt": "2026-08-04T02:06:46Z"
     },
     {
       "id": "odekake-qvny5b6ueyxBhKlOVsG5",
@@ -30,7 +30,7 @@
       "source": "おでかけKOBE",
       "startsAt": "2026-09-08T00:00:00.000Z",
       "endsAt": "2026-09-08T00:00:00.000Z",
-      "fetchedAt": "2026-08-04T02:00:50Z"
+      "fetchedAt": "2026-08-04T02:07:32Z"
     },
     {
       "id": "odekake-t0ZzCJTvk3mqD2NnzB4P",
@@ -40,7 +40,7 @@
       "source": "おでかけKOBE",
       "startsAt": "2026-09-08T00:00:00.000Z",
       "endsAt": "2026-09-08T00:00:00.000Z",
-      "fetchedAt": "2026-08-04T02:00:59Z"
+      "fetchedAt": "2026-08-04T02:07:42Z"
     },
     {
       "id": "odekake-tsQzVXJKtrxviIQJEFRw",
@@ -50,7 +50,7 @@
       "source": "おでかけKOBE",
       "startsAt": "2026-09-08T00:00:00.000Z",
       "endsAt": "2026-09-08T00:00:00.000Z",
-      "fetchedAt": "2026-08-04T02:01:01Z"
+      "fetchedAt": "2026-08-04T02:07:45Z"
     },
     {
       "id": "odekake-Jf9pffvGdj1S0FYvX3JF",
@@ -60,7 +60,7 @@
       "source": "おでかけKOBE",
       "startsAt": "2026-08-29T00:00:00.000Z",
       "endsAt": "2026-08-29T00:00:00.000Z",
-      "fetchedAt": "2026-08-04T02:00:18Z"
+      "fetchedAt": "2026-08-04T02:07:07Z"
     },
     {
       "id": "odekake-q0oAXjfj45BQS3NP0m9M",
@@ -70,7 +70,7 @@
       "source": "おでかけKOBE",
       "startsAt": "2026-08-25T00:00:00.000Z",
       "endsAt": "2026-08-25T00:00:00.000Z",
-      "fetchedAt": "2026-08-04T02:00:46Z"
+      "fetchedAt": "2026-08-04T02:07:30Z"
     },
     {
       "id": "odekake-zf6QzVliy2ndw0xqhAC9",
@@ -80,7 +80,7 @@
       "source": "おでかけKOBE",
       "startsAt": "2026-08-20T00:00:00.000Z",
       "endsAt": "2026-08-20T00:00:00.000Z",
-      "fetchedAt": "2026-08-04T02:01:24Z"
+      "fetchedAt": "2026-08-04T02:08:05Z"
     },
     {
       "id": "odekake-acs7hOgPGfwMfumwNVZu",
@@ -90,7 +90,7 @@
       "source": "おでかけKOBE",
       "startsAt": "2026-08-15T00:00:00.000Z",
       "endsAt": "2026-08-15T00:00:00.000Z",
-      "fetchedAt": "2026-08-04T01:59:17Z"
+      "fetchedAt": "2026-08-04T02:06:27Z"
     },
     {
       "id": "odekake-xRcp5NxPp4GNtg6EgIZ0",
@@ -100,7 +100,7 @@
       "source": "おでかけKOBE",
       "startsAt": "2026-08-11T00:00:00.000Z",
       "endsAt": "2026-08-11T00:00:00.000Z",
-      "fetchedAt": "2026-08-04T02:01:15Z"
+      "fetchedAt": "2026-08-04T02:07:59Z"
     },
     {
       "id": "odekake-8rM4iRoq1CyOnV8H53XK",
@@ -110,7 +110,7 @@
       "source": "おでかけKOBE",
       "startsAt": "2026-08-08T00:00:00.000Z",
       "endsAt": "2026-08-08T00:00:00.000Z",
-      "fetchedAt": "2026-08-04T01:59:10Z"
+      "fetchedAt": "2026-08-04T02:06:20Z"
     },
     {
       "id": "odekake-DZsQG25jKWh1QLelPQ6U",
@@ -120,57 +120,7 @@
       "source": "おでかけKOBE",
       "startsAt": "2026-08-06T00:00:00.000Z",
       "endsAt": "2026-08-06T00:00:00.000Z",
-      "fetchedAt": "2026-08-04T01:59:44Z"
-    },
-    {
-      "id": "patio-shopnews-3440",
-      "title": "『BEYBLADE X』のスペシャルコラボです！！",
-      "summary": "",
-      "url": "https://www.patio.gr.jp/shopnews/%e3%80%8ebeyblade-x%e3%80%8f%e3%81%ae%e3%82%b9%e3%83%9a%e3%82%b7%e3%83%a3%e3%83%ab%e3%82%b3%e3%83%a9%e3%83%9c%e3%81%a7%e3%81%99%ef%bc%81%ef%bc%81/",
-      "source": "須磨パティオ",
-      "startsAt": "2026-08-03T09:58:24",
-      "endsAt": null,
-      "fetchedAt": "2026-08-04T01:58:52Z"
-    },
-    {
-      "id": "patio-event-2322",
-      "title": "8月の駅前広場イベント情報",
-      "summary": "※ 広場の利用は予告なしに急遽変更になることがあります",
-      "url": "https://www.patio.gr.jp/event/%e9%a7%85%e5%89%8d%e5%ba%83%e5%a0%b4%e3%82%a4%e3%83%99%e3%83%b3%e3%83%88%e6%83%85%e5%a0%b1-2/",
-      "source": "須磨パティオ",
-      "startsAt": "2026-08-01T08:00:00",
-      "endsAt": null,
-      "fetchedAt": "2026-08-04T01:58:51Z"
-    },
-    {
-      "id": "patio-shopnews-3239",
-      "title": "秋の出産準備フェア開催中！",
-      "summary": "",
-      "url": "https://www.patio.gr.jp/shopnews/%e7%a7%8b%e3%81%ae%e5%87%ba%e7%94%a3%e6%ba%96%e5%82%99%e3%83%95%e3%82%a7%e3%82%a2%e9%96%8b%e5%82%ac%e4%b8%ad%ef%bc%81/",
-      "source": "須磨パティオ",
-      "startsAt": "2026-07-30T01:00:00",
-      "endsAt": null,
-      "fetchedAt": "2026-08-04T01:58:52Z"
-    },
-    {
-      "id": "patio-event-3426",
-      "title": "8/8(土) 名谷夏祭り",
-      "summary": "夏の夜を彩る屋台や縁日、ステージイベント、盆踊りなど誰もが楽しめる盛りだくさんの…",
-      "url": "https://www.patio.gr.jp/event/natsumatsuri2026/",
-      "source": "須磨パティオ",
-      "startsAt": "2026-07-28T16:55:28",
-      "endsAt": null,
-      "fetchedAt": "2026-08-04T01:58:51Z"
-    },
-    {
-      "id": "patio-shopnews-3412",
-      "title": "TVCM公開中！吸水力に優れたタオル！",
-      "summary": "",
-      "url": "https://www.patio.gr.jp/shopnews/tvcm%e5%85%ac%e9%96%8b%e4%b8%ad%ef%bc%81%e5%90%b8%e6%b0%b4%e5%8a%9b%e3%81%ab%e5%84%aa%e3%82%8c%e3%81%9f%e3%82%bf%e3%82%aa%e3%83%ab%ef%bc%81/",
-      "source": "須磨パティオ",
-      "startsAt": "2026-07-21T01:00:00",
-      "endsAt": null,
-      "fetchedAt": "2026-08-04T01:58:52Z"
+      "fetchedAt": "2026-08-04T02:06:42Z"
     },
     {
       "id": "odekake-3OFV09zYH35CociU0QzA",
@@ -180,17 +130,7 @@
       "source": "おでかけKOBE",
       "startsAt": "2026-07-21T00:00:00.000Z",
       "endsAt": "2026-08-29T00:00:00.000Z",
-      "fetchedAt": "2026-08-04T01:59:04Z"
-    },
-    {
-      "id": "patio-shopnews-3414",
-      "title": "ファン付きベスト 大人気！！",
-      "summary": "",
-      "url": "https://www.patio.gr.jp/shopnews/%e3%83%95%e3%82%a1%e3%83%b3%e4%bb%98%e3%81%8d%e3%83%99%e3%82%b9%e3%83%88-%e5%a4%a7%e4%ba%ba%e6%b0%97%ef%bc%81%ef%bc%81/",
-      "source": "須磨パティオ",
-      "startsAt": "2026-07-20T01:00:00",
-      "endsAt": null,
-      "fetchedAt": "2026-08-04T01:58:52Z"
+      "fetchedAt": "2026-08-04T02:06:14Z"
     },
     {
       "id": "odekake-7piYO7kVNjexXqnuVK4Q",
@@ -200,237 +140,10 @@
       "source": "おでかけKOBE",
       "startsAt": "2026-07-18T00:00:00.000Z",
       "endsAt": "2026-09-26T00:00:00.000Z",
-      "fetchedAt": "2026-08-04T01:59:09Z"
-    },
-    {
-      "id": "patio-shopnews-3409",
-      "title": "2本以上買うとお得なまとめ買いキャンペーン実施！",
-      "summary": "",
-      "url": "https://www.patio.gr.jp/shopnews/2%e6%9c%ac%e4%bb%a5%e4%b8%8a%e8%b2%b7%e3%81%86%e3%81%a8%e3%81%8a%e5%be%97%e3%81%aa%e3%81%be%e3%81%a8%e3%82%81%e8%b2%b7%e3%81%84%e3%82%ad%e3%83%a3%e3%83%b3%e3%83%9a%e3%83%bc%e3%83%b3%e5%ae%9f%e6%96%bd/",
-      "source": "須磨パティオ",
-      "startsAt": "2026-07-16T01:00:00",
-      "endsAt": null,
-      "fetchedAt": "2026-08-04T01:58:52Z"
-    },
-    {
-      "id": "patio-shopnews-3407",
-      "title": "JINS 25TH MATSURI 第三弾スタート！",
-      "summary": "",
-      "url": "https://www.patio.gr.jp/shopnews/jins-25th-matsuri-%e7%ac%ac%e4%b8%89%e5%bc%be%e3%82%b9%e3%82%bf%e3%83%bc%e3%83%88%ef%bc%81/",
-      "source": "須磨パティオ",
-      "startsAt": "2026-07-15T05:23:00",
-      "endsAt": null,
-      "fetchedAt": "2026-08-04T01:58:52Z"
-    },
-    {
-      "id": "patio-event-3374",
-      "title": "7/17(金)～8/31(月) キッズメニュー特集",
-      "summary": "おいしい笑顔弾ける！夏休みのごちそう時間！＼須磨パティオ キッズメニュー特集／ …",
-      "url": "https://www.patio.gr.jp/event/kidsmenu/",
-      "source": "須磨パティオ",
-      "startsAt": "2026-07-14T11:14:27",
-      "endsAt": null,
-      "fetchedAt": "2026-08-04T01:58:51Z"
-    },
-    {
-      "id": "patio-event-3288",
-      "title": "PATIO SUMMER COLLECTION",
-      "summary": "各店の夏のおトク情報や限定メニューをご紹介！須磨パティオで素敵な夏をお過ごしくだ…",
-      "url": "https://www.patio.gr.jp/event/patio-summer-collection/",
-      "source": "須磨パティオ",
-      "startsAt": "2026-07-14T11:11:41",
-      "endsAt": null,
-      "fetchedAt": "2026-08-04T01:58:51Z"
-    },
-    {
-      "id": "patio-shopnews-1571",
-      "title": "シェアキッチン出店カレンダー",
-      "summary": "",
-      "url": "https://www.patio.gr.jp/shopnews/sharekitchen/",
-      "source": "須磨パティオ",
-      "startsAt": "2026-07-06T10:07:54",
-      "endsAt": null,
-      "fetchedAt": "2026-08-04T01:58:52Z"
-    },
-    {
-      "id": "patio-shopnews-3333",
-      "title": "「可視光調光レンズ」期間限定20%OFF開催中！",
-      "summary": "",
-      "url": "https://www.patio.gr.jp/shopnews/%e3%80%8c%e5%8f%af%e8%a6%96%e5%85%89%e8%aa%bf%e5%85%89%e3%83%ac%e3%83%b3%e3%82%ba%e3%80%8d%e6%9c%9f%e9%96%93%e9%99%90%e5%ae%9a20off%e9%96%8b%e5%82%ac%e4%b8%ad%ef%bc%81/",
-      "source": "須磨パティオ",
-      "startsAt": "2026-07-01T01:00:00",
-      "endsAt": null,
-      "fetchedAt": "2026-08-04T01:58:52Z"
-    },
-    {
-      "id": "patio-shopnews-3276",
-      "title": "プレミアムバザール",
-      "summary": "",
-      "url": "https://www.patio.gr.jp/shopnews/%e3%83%97%e3%83%ac%e3%83%9f%e3%82%a2%e3%83%a0%e3%83%90%e3%82%b6%e3%83%bc%e3%83%ab/",
-      "source": "須磨パティオ",
-      "startsAt": "2026-07-01T01:00:00",
-      "endsAt": null,
-      "fetchedAt": "2026-08-04T01:58:52Z"
-    },
-    {
-      "id": "patio-shopnews-3291",
-      "title": "『ファンタジア』のアイウエアコレクション",
-      "summary": "",
-      "url": "https://www.patio.gr.jp/shopnews/%e3%80%8e%e3%83%95%e3%82%a1%e3%83%b3%e3%82%bf%e3%82%b8%e3%82%a2%e3%80%8f%e3%81%ae%e3%82%a2%e3%82%a4%e3%82%a6%e3%82%a8%e3%82%a2%e3%82%b3%e3%83%ac%e3%82%af%e3%82%b7%e3%83%a7%e3%83%b3/",
-      "source": "須磨パティオ",
-      "startsAt": "2026-06-19T01:00:00",
-      "endsAt": null,
-      "fetchedAt": "2026-08-04T01:58:52Z"
-    },
-    {
-      "id": "patio-event-3245",
-      "title": "あそびの学校 年間スケジュール",
-      "summary": "いっしょにつくろう！いっしょにあそぼう！ 開催スケジュール・内容： 開催場所：須…",
-      "url": "https://www.patio.gr.jp/event/asobi_schedule/",
-      "source": "須磨パティオ",
-      "startsAt": "2026-06-11T14:11:17",
-      "endsAt": null,
-      "fetchedAt": "2026-08-04T01:58:51Z"
-    },
-    {
-      "id": "patio-news-3223",
-      "title": "7/1～ 駐車料金の改定について",
-      "summary": "",
-      "url": "https://www.patio.gr.jp/news/6-1%ef%bd%9e-%e9%a7%90%e8%bb%8a%e6%96%99%e9%87%91%e3%81%ae%e6%94%b9%e5%ae%9a%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6/",
-      "source": "須磨パティオ",
-      "startsAt": "2026-06-04T10:39:39",
-      "endsAt": null,
-      "fetchedAt": "2026-08-04T01:58:51Z"
-    },
-    {
-      "id": "patio-shopnews-3206",
-      "title": "夏季キャンペーン『爽快！シャーベットヘッド＆ネック』",
-      "summary": "",
-      "url": "https://www.patio.gr.jp/shopnews/%e5%a4%8f%e5%ad%a3%e3%82%ad%e3%83%a3%e3%83%b3%e3%83%9a%e3%83%bc%e3%83%b3%e3%80%8e%e7%88%bd%e5%bf%ab%ef%bc%81%e3%82%b7%e3%83%a3%e3%83%bc%e3%83%99%e3%83%83%e3%83%88%e3%83%98%e3%83%83%e3%83%89%ef%bc%86/",
-      "source": "須磨パティオ",
-      "startsAt": "2026-06-01T01:00:00",
-      "endsAt": null,
-      "fetchedAt": "2026-08-04T01:58:52Z"
-    },
-    {
-      "id": "patio-shopnews-3167",
-      "title": "エスパティオの夏休み短期教室開催！！！！",
-      "summary": "",
-      "url": "https://www.patio.gr.jp/shopnews/%e3%82%a8%e3%82%b9%e3%83%91%e3%83%86%e3%82%a3%e3%82%aa%e3%81%ae%e5%a4%8f%e4%bc%91%e3%81%bf%e7%9f%ad%e6%9c%9f%e6%95%99%e5%ae%a4%e9%96%8b%e5%82%ac%ef%bc%81%ef%bc%81%ef%bc%81%ef%bc%81/",
-      "source": "須磨パティオ",
-      "startsAt": "2026-05-25T01:00:00",
-      "endsAt": null,
-      "fetchedAt": "2026-08-04T01:58:52Z"
-    },
-    {
-      "id": "patio-news-1643",
-      "title": "買物広場噴水・ミスト・駅前広場噴水ご利用案内",
-      "summary": "",
-      "url": "https://www.patio.gr.jp/news/%e8%b2%b7%e7%89%a9%e5%ba%83%e5%a0%b4%ef%bc%88%e8%8a%9d%e7%94%9f%e5%81%b4%ef%bc%89%e5%99%b4%e6%b0%b4%e7%a8%bc%e5%83%8d%e3%81%ae%e3%81%8a%e7%9f%a5%e3%82%89%e3%81%9b/",
-      "source": "須磨パティオ",
-      "startsAt": "2026-05-01T09:00:00",
-      "endsAt": null,
-      "fetchedAt": "2026-08-04T01:58:51Z"
-    },
-    {
-      "id": "patio-event-2976",
-      "title": "4/1~3/31 学割キャンペーン",
-      "summary": "＼パティオに集まれ！／学割キャンペーン！ 期間：2026年4月1日(水)～202…",
-      "url": "https://www.patio.gr.jp/event/studentcampaign/",
-      "source": "須磨パティオ",
-      "startsAt": "2026-04-01T01:00:00",
-      "endsAt": null,
-      "fetchedAt": "2026-08-04T01:58:51Z"
-    },
-    {
-      "id": "patio-event-2970",
-      "title": "＼毎月7日はラッキーパティオの日！／ ★LINE友だち限定抽選会★",
-      "summary": "須磨パティオ公式LINEアカウントのお友だちの方限定で、毎月20名様に、神戸ウェ…",
-      "url": "https://www.patio.gr.jp/event/linecampaign/",
-      "source": "須磨パティオ",
-      "startsAt": "2026-04-01T01:00:00",
-      "endsAt": null,
-      "fetchedAt": "2026-08-04T01:58:51Z"
-    },
-    {
-      "id": "patio-shopnews-2669",
-      "title": "『トイ・ストーリー』アイウエアコレクション",
-      "summary": "",
-      "url": "https://www.patio.gr.jp/shopnews/%e3%80%8e%e3%83%88%e3%82%a4%e3%83%bb%e3%82%b9%e3%83%88%e3%83%bc%e3%83%aa%e3%83%bc%e3%80%8f%e3%82%a2%e3%82%a4%e3%82%a6%e3%82%a8%e3%82%a2%e3%82%b3%e3%83%ac%e3%82%af%e3%82%b7%e3%83%a7%e3%83%b3/",
-      "source": "須磨パティオ",
-      "startsAt": "2026-01-08T01:00:00",
-      "endsAt": null,
-      "fetchedAt": "2026-08-04T01:58:52Z"
-    },
-    {
-      "id": "patio-news-1995",
-      "title": "こうべ油回収チャレンジ〜Kobe FRY to FLY Project〜",
-      "summary": "",
-      "url": "https://www.patio.gr.jp/news/%e3%81%93%e3%81%86%e3%81%b9%e6%b2%b9%e5%9b%9e%e5%8f%8e%e3%83%81%e3%83%a3%e3%83%ac%e3%83%b3%e3%82%b8%e3%80%9ckobe-fry-to-fly-project%e3%80%9c/",
-      "source": "須磨パティオ",
-      "startsAt": "2025-07-17T13:48:47",
-      "endsAt": null,
-      "fetchedAt": "2026-08-04T01:58:51Z"
-    },
-    {
-      "id": "patio-event-1683",
-      "title": "毎週水曜 健康ウォーキングラリー",
-      "summary": "毎週水曜日に須磨PATIO館内を回遊していただく「健康ウォーキングラリー」を開催…",
-      "url": "https://www.patio.gr.jp/event/%e6%af%8e%e9%80%b1%e6%b0%b4%e6%9b%9c%e3%80%80%e5%81%a5%e5%ba%b7%e3%82%a6%e3%82%a9%e3%83%bc%e3%82%ad%e3%83%b3%e3%82%b0%e3%83%a9%e3%83%aa%e3%83%bc/",
-      "source": "須磨パティオ",
-      "startsAt": "2025-05-08T09:06:02",
-      "endsAt": null,
-      "fetchedAt": "2026-08-04T01:58:51Z"
-    },
-    {
-      "id": "patio-news-1538",
-      "title": "屋上ひろばにみんなの屋上菜園「pick! nic! farm」がオープン！",
-      "summary": "",
-      "url": "https://www.patio.gr.jp/news/%e5%b1%8b%e4%b8%8a%e3%81%b2%e3%82%8d%e3%81%b0%e3%81%ab%e3%81%bf%e3%82%93%e3%81%aa%e3%81%ae%e5%b1%8b%e4%b8%8a%e8%8f%9c%e5%9c%92%e3%80%8cpick-nic-farm%e3%80%8d%e3%81%8c%e3%82%aa%e3%83%bc%e3%83%97/",
-      "source": "須磨パティオ",
-      "startsAt": "2025-03-25T13:42:39",
-      "endsAt": null,
-      "fetchedAt": "2026-08-04T01:58:51Z"
-    },
-    {
-      "id": "patio-event-1165",
-      "title": "10・25日はポイント3倍デー！",
-      "summary": "\\\\毎月10日・25日はお得なポイントアップデー// 神戸ウェストメンバーズカー…",
-      "url": "https://www.patio.gr.jp/event/pointup/",
-      "source": "須磨パティオ",
-      "startsAt": "2025-01-06T14:14:29",
-      "endsAt": null,
-      "fetchedAt": "2026-08-04T01:58:51Z"
-    },
-    {
-      "id": "patio-news-698",
-      "title": "パティオホールの利用区分の変更について",
-      "summary": "",
-      "url": "https://www.patio.gr.jp/news/%e3%83%91%e3%83%86%e3%82%a3%e3%82%aa%e3%83%9b%e3%83%bc%e3%83%ab%e3%81%ae%e5%88%a9%e7%94%a8%e5%8c%ba%e5%88%86%e3%81%ae%e5%a4%89%e6%9b%b4%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6/",
-      "source": "須磨パティオ",
-      "startsAt": "2024-11-07T14:31:32",
-      "endsAt": null,
-      "fetchedAt": "2026-08-04T01:58:51Z"
-    },
-    {
-      "id": "patio-news-96",
-      "title": "営業終了店舗のお知らせ",
-      "summary": "",
-      "url": "https://www.patio.gr.jp/news/%e5%96%b6%e6%a5%ad%e7%b5%82%e4%ba%86%e5%ba%97%e8%88%97%e3%81%ae%e3%81%8a%e7%9f%a5%e3%82%89%e3%81%9b/",
-      "source": "須磨パティオ",
-      "startsAt": "2024-09-30T23:59:00",
-      "endsAt": null,
-      "fetchedAt": "2026-08-04T01:58:51Z"
-    },
-    {
-      "id": "patio-news-371",
-      "title": "無料Wi-Fiサービスのご案内",
-      "summary": "",
-      "url": "https://www.patio.gr.jp/news/%e7%84%a1%e6%96%99wi-fi%e3%82%b5%e3%83%bc%e3%83%93%e3%82%b9%e3%81%ae%e3%81%94%e6%a1%88%e5%86%85/",
-      "source": "須磨パティオ",
-      "startsAt": "2022-12-23T03:22:00",
-      "endsAt": null,
-      "fetchedAt": "2026-08-04T01:58:51Z"
+      "fetchedAt": "2026-08-04T02:06:19Z"
     }
+  ],
+  "warnings": [
+    "patio: HTTP Error 403: Forbidden"
   ]
 }
