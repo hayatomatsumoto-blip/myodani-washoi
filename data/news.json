@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-04T23:02:25Z",
-  "count": 43,
+  "updatedAt": "2026-08-05T22:57:50Z",
+  "count": 44,
   "items": [
     {
       "id": "odekake-khNknIIKB34sXtP0IbKS",
@@ -10,7 +10,17 @@
       "source": "おでかけKOBE",
       "startsAt": "2026-10-13T00:00:00.000Z",
       "endsAt": "2026-10-13T00:00:00.000Z",
-      "fetchedAt": "2026-08-04T23:01:23Z"
+      "fetchedAt": "2026-08-05T22:56:52Z"
+    },
+    {
+      "id": "odekake-GYpyfe4zEkQtisDq3P1d",
+      "title": "マタニティーママの日（9/29）",
+      "summary": "妊娠中のママが集まって、ゆったりとお茶を飲みながらお喋りしたり簡単なベビーの小物を作ったりしています。兄弟姉妹の参加もＯＫです♪",
+      "url": "https://event.city.kobe.lg.jp/event/GYpyfe4zEkQtisDq3P1d",
+      "source": "おでかけKOBE",
+      "startsAt": "2026-09-29T00:00:00.000Z",
+      "endsAt": "2026-09-29T00:00:00.000Z",
+      "fetchedAt": "2026-08-05T22:56:38Z"
     },
     {
       "id": "odekake-ExFfZTSeeh7zXZ5bQ7TI",
@@ -20,7 +30,7 @@
       "source": "おでかけKOBE",
       "startsAt": "2026-09-09T00:00:00.000Z",
       "endsAt": "2026-09-09T00:00:00.000Z",
-      "fetchedAt": "2026-08-04T23:00:59Z"
+      "fetchedAt": "2026-08-05T22:56:31Z"
     },
     {
       "id": "odekake-qvny5b6ueyxBhKlOVsG5",
@@ -30,7 +40,7 @@
       "source": "おでかけKOBE",
       "startsAt": "2026-09-08T00:00:00.000Z",
       "endsAt": "2026-09-08T00:00:00.000Z",
-      "fetchedAt": "2026-08-04T23:01:49Z"
+      "fetchedAt": "2026-08-05T22:57:17Z"
     },
     {
       "id": "odekake-t0ZzCJTvk3mqD2NnzB4P",
@@ -40,7 +50,7 @@
       "source": "おでかけKOBE",
       "startsAt": "2026-09-08T00:00:00.000Z",
       "endsAt": "2026-09-08T00:00:00.000Z",
-      "fetchedAt": "2026-08-04T23:01:58Z"
+      "fetchedAt": "2026-08-05T22:57:25Z"
     },
     {
       "id": "odekake-tsQzVXJKtrxviIQJEFRw",
@@ -50,7 +60,7 @@
       "source": "おでかけKOBE",
       "startsAt": "2026-09-08T00:00:00.000Z",
       "endsAt": "2026-09-08T00:00:00.000Z",
-      "fetchedAt": "2026-08-04T23:02:01Z"
+      "fetchedAt": "2026-08-05T22:57:27Z"
     },
     {
       "id": "odekake-Jf9pffvGdj1S0FYvX3JF",
@@ -60,7 +70,7 @@
       "source": "おでかけKOBE",
       "startsAt": "2026-08-29T00:00:00.000Z",
       "endsAt": "2026-08-29T00:00:00.000Z",
-      "fetchedAt": "2026-08-04T23:01:20Z"
+      "fetchedAt": "2026-08-05T22:56:47Z"
     },
     {
       "id": "odekake-q0oAXjfj45BQS3NP0m9M",
@@ -70,7 +80,7 @@
       "source": "おでかけKOBE",
       "startsAt": "2026-08-25T00:00:00.000Z",
       "endsAt": "2026-08-25T00:00:00.000Z",
-      "fetchedAt": "2026-08-04T23:01:46Z"
+      "fetchedAt": "2026-08-05T22:57:14Z"
     },
     {
       "id": "odekake-zf6QzVliy2ndw0xqhAC9",
@@ -80,7 +90,7 @@
       "source": "おでかけKOBE",
       "startsAt": "2026-08-20T00:00:00.000Z",
       "endsAt": "2026-08-20T00:00:00.000Z",
-      "fetchedAt": "2026-08-04T23:02:22Z"
+      "fetchedAt": "2026-08-05T22:57:48Z"
     },
     {
       "id": "odekake-acs7hOgPGfwMfumwNVZu",
@@ -90,7 +100,7 @@
       "source": "おでかけKOBE",
       "startsAt": "2026-08-15T00:00:00.000Z",
       "endsAt": "2026-08-15T00:00:00.000Z",
-      "fetchedAt": "2026-08-04T23:00:32Z"
+      "fetchedAt": "2026-08-05T22:56:02Z"
     },
     {
       "id": "odekake-xRcp5NxPp4GNtg6EgIZ0",
@@ -100,7 +110,7 @@
       "source": "おでかけKOBE",
       "startsAt": "2026-08-11T00:00:00.000Z",
       "endsAt": "2026-08-11T00:00:00.000Z",
-      "fetchedAt": "2026-08-04T23:02:15Z"
+      "fetchedAt": "2026-08-05T22:57:41Z"
     },
     {
       "id": "odekake-8rM4iRoq1CyOnV8H53XK",
@@ -110,7 +120,7 @@
       "source": "おでかけKOBE",
       "startsAt": "2026-08-08T00:00:00.000Z",
       "endsAt": "2026-08-08T00:00:00.000Z",
-      "fetchedAt": "2026-08-04T23:00:22Z"
+      "fetchedAt": "2026-08-05T22:55:56Z"
     },
     {
       "id": "odekake-DZsQG25jKWh1QLelPQ6U",
@@ -120,7 +130,7 @@
       "source": "おでかけKOBE",
       "startsAt": "2026-08-06T00:00:00.000Z",
       "endsAt": "2026-08-06T00:00:00.000Z",
-      "fetchedAt": "2026-08-04T23:00:53Z"
+      "fetchedAt": "2026-08-05T22:56:26Z"
     },
     {
       "id": "patio-shopnews-3440",
@@ -180,7 +190,7 @@
       "source": "おでかけKOBE",
       "startsAt": "2026-07-21T00:00:00.000Z",
       "endsAt": "2026-08-29T00:00:00.000Z",
-      "fetchedAt": "2026-08-04T23:00:09Z"
+      "fetchedAt": "2026-08-05T22:55:40Z"
     },
     {
       "id": "patio-shopnews-3414",
@@ -200,7 +210,7 @@
       "source": "おでかけKOBE",
       "startsAt": "2026-07-18T00:00:00.000Z",
       "endsAt": "2026-09-26T00:00:00.000Z",
-      "fetchedAt": "2026-08-04T23:00:19Z"
+      "fetchedAt": "2026-08-05T22:55:52Z"
     },
     {
       "id": "patio-shopnews-3409",
