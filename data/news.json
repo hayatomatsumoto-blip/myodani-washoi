@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-19T22:24:39Z",
-  "count": 50,
+  "updatedAt": "2026-08-20T22:27:14Z",
+  "count": 51,
   "items": [
     {
       "id": "odekake-khNknIIKB34sXtP0IbKS",
@@ -10,7 +10,7 @@
       "source": "おでかけKOBE",
       "startsAt": "2026-10-13T00:00:00.000Z",
       "endsAt": "2026-10-13T00:00:00.000Z",
-      "fetchedAt": "2026-08-19T22:23:33Z"
+      "fetchedAt": "2026-08-20T22:26:10Z"
     },
     {
       "id": "odekake-Yb3VZrmXMl4IRExeAaHb",
@@ -20,7 +20,7 @@
       "source": "おでかけKOBE",
       "startsAt": "2026-10-03T00:00:00.000Z",
       "endsAt": "2026-12-06T00:00:00.000Z",
-      "fetchedAt": "2026-08-19T22:24:32Z"
+      "fetchedAt": "2026-08-20T22:27:08Z"
     },
     {
       "id": "odekake-GYpyfe4zEkQtisDq3P1d",
@@ -30,7 +30,7 @@
       "source": "おでかけKOBE",
       "startsAt": "2026-09-29T00:00:00.000Z",
       "endsAt": "2026-09-29T00:00:00.000Z",
-      "fetchedAt": "2026-08-19T22:23:19Z"
+      "fetchedAt": "2026-08-20T22:25:53Z"
     },
     {
       "id": "odekake-TSOarMMDOcphjrPfES82",
@@ -40,7 +40,7 @@
       "source": "おでかけKOBE",
       "startsAt": "2026-09-20T00:00:00.000Z",
       "endsAt": "2026-09-20T00:00:00.000Z",
-      "fetchedAt": "2026-08-19T22:24:15Z"
+      "fetchedAt": "2026-08-20T22:26:51Z"
     },
     {
       "id": "odekake-BfhJgDrSyJrgBBHp7evG",
@@ -50,7 +50,7 @@
       "source": "おでかけKOBE",
       "startsAt": "2026-09-19T00:00:00.000Z",
       "endsAt": "2026-09-19T00:00:00.000Z",
-      "fetchedAt": "2026-08-19T22:22:52Z"
+      "fetchedAt": "2026-08-20T22:25:26Z"
     },
     {
       "id": "odekake-9hK5LT6Fj8aKjyFXcM61",
@@ -60,7 +60,17 @@
       "source": "おでかけKOBE",
       "startsAt": "2026-09-19T00:00:00.000Z",
       "endsAt": "2026-09-19T00:00:00.000Z",
-      "fetchedAt": "2026-08-19T22:22:37Z"
+      "fetchedAt": "2026-08-20T22:25:08Z"
+    },
+    {
+      "id": "odekake-jS7qrWdqN9d5kifdu0YV",
+      "title": "（名谷図書館）ふたばおはなし会 9月17日",
+      "summary": "絵本の読み聞かせや手遊び ＜対象：1歳～2歳の子供と保護者＞ 毎月第3木曜 11時00分～11時15分 当日先着10組",
+      "url": "https://event.city.kobe.lg.jp/event/jS7qrWdqN9d5kifdu0YV",
+      "source": "おでかけKOBE",
+      "startsAt": "2026-09-17T00:00:00.000Z",
+      "endsAt": "2026-09-17T00:00:00.000Z",
+      "fetchedAt": "2026-08-20T22:26:09Z"
     },
     {
       "id": "odekake-2cjEQu6upsDQvQSNXciT",
@@ -70,7 +80,7 @@
       "source": "おでかけKOBE",
       "startsAt": "2026-09-12T00:00:00.000Z",
       "endsAt": "2026-09-12T00:00:00.000Z",
-      "fetchedAt": "2026-08-19T22:22:17Z"
+      "fetchedAt": "2026-08-20T22:24:49Z"
     },
     {
       "id": "odekake-ExFfZTSeeh7zXZ5bQ7TI",
@@ -80,7 +90,7 @@
       "source": "おでかけKOBE",
       "startsAt": "2026-09-09T00:00:00.000Z",
       "endsAt": "2026-09-09T00:00:00.000Z",
-      "fetchedAt": "2026-08-19T22:23:12Z"
+      "fetchedAt": "2026-08-20T22:25:46Z"
     },
     {
       "id": "odekake-qvny5b6ueyxBhKlOVsG5",
@@ -90,7 +100,7 @@
       "source": "おでかけKOBE",
       "startsAt": "2026-09-08T00:00:00.000Z",
       "endsAt": "2026-09-08T00:00:00.000Z",
-      "fetchedAt": "2026-08-19T22:24:02Z"
+      "fetchedAt": "2026-08-20T22:26:41Z"
     },
     {
       "id": "odekake-t0ZzCJTvk3mqD2NnzB4P",
@@ -100,7 +110,7 @@
       "source": "おでかけKOBE",
       "startsAt": "2026-09-08T00:00:00.000Z",
       "endsAt": "2026-09-08T00:00:00.000Z",
-      "fetchedAt": "2026-08-19T22:24:12Z"
+      "fetchedAt": "2026-08-20T22:26:48Z"
     },
     {
       "id": "odekake-tsQzVXJKtrxviIQJEFRw",
@@ -110,7 +120,7 @@
       "source": "おでかけKOBE",
       "startsAt": "2026-09-08T00:00:00.000Z",
       "endsAt": "2026-09-08T00:00:00.000Z",
-      "fetchedAt": "2026-08-19T22:24:15Z"
+      "fetchedAt": "2026-08-20T22:26:52Z"
     },
     {
       "id": "odekake-koonMSztoKurusNsdytk",
@@ -120,7 +130,7 @@
       "source": "おでかけKOBE",
       "startsAt": "2026-09-03T00:00:00.000Z",
       "endsAt": "2026-09-03T00:00:00.000Z",
-      "fetchedAt": "2026-08-19T22:23:34Z"
+      "fetchedAt": "2026-08-20T22:26:11Z"
     },
     {
       "id": "odekake-Jf9pffvGdj1S0FYvX3JF",
@@ -130,7 +140,7 @@
       "source": "おでかけKOBE",
       "startsAt": "2026-08-29T00:00:00.000Z",
       "endsAt": "2026-08-29T00:00:00.000Z",
-      "fetchedAt": "2026-08-19T22:23:29Z"
+      "fetchedAt": "2026-08-20T22:26:06Z"
     },
     {
       "id": "odekake-q0oAXjfj45BQS3NP0m9M",
@@ -140,7 +150,7 @@
       "source": "おでかけKOBE",
       "startsAt": "2026-08-25T00:00:00.000Z",
       "endsAt": "2026-08-25T00:00:00.000Z",
-      "fetchedAt": "2026-08-19T22:23:59Z"
+      "fetchedAt": "2026-08-20T22:26:36Z"
     },
     {
       "id": "odekake-zf6QzVliy2ndw0xqhAC9",
@@ -250,7 +260,7 @@
       "source": "おでかけKOBE",
       "startsAt": "2026-07-21T00:00:00.000Z",
       "endsAt": "2026-08-29T00:00:00.000Z",
-      "fetchedAt": "2026-08-19T22:22:21Z"
+      "fetchedAt": "2026-08-20T22:24:52Z"
     },
     {
       "id": "patio-shopnews-3414",
@@ -270,7 +280,7 @@
       "source": "おでかけKOBE",
       "startsAt": "2026-07-18T00:00:00.000Z",
       "endsAt": "2026-09-26T00:00:00.000Z",
-      "fetchedAt": "2026-08-19T22:22:32Z"
+      "fetchedAt": "2026-08-20T22:25:04Z"
     },
     {
       "id": "patio-shopnews-3409",
