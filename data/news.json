@@ -1,7 +1,17 @@
 {
-  "updatedAt": "2026-08-31T00:13:19Z",
-  "count": 51,
+  "updatedAt": "2026-09-01T01:00:23Z",
+  "count": 52,
   "items": [
+    {
+      "id": "odekake-oPSsxj09TqLrIH85aQw2",
+      "title": "親子の学び教室【須磨区】11月10日",
+      "summary": "おやこフィットネス～音楽に合わせて体を動かそう～",
+      "url": "https://event.city.kobe.lg.jp/event/oPSsxj09TqLrIH85aQw2",
+      "source": "おでかけKOBE",
+      "startsAt": "2026-11-10T00:00:00.000Z",
+      "endsAt": "2026-11-10T00:00:00.000Z",
+      "fetchedAt": "2026-09-01T00:59:39Z"
+    },
     {
       "id": "odekake-khNknIIKB34sXtP0IbKS",
       "title": "親子の学び教室【須磨区】10月13日",
@@ -10,7 +20,7 @@
       "source": "おでかけKOBE",
       "startsAt": "2026-10-13T00:00:00.000Z",
       "endsAt": "2026-10-13T00:00:00.000Z",
-      "fetchedAt": "2026-08-31T00:12:20Z"
+      "fetchedAt": "2026-09-01T00:59:23Z"
     },
     {
       "id": "odekake-Yb3VZrmXMl4IRExeAaHb",
@@ -20,7 +30,7 @@
       "source": "おでかけKOBE",
       "startsAt": "2026-10-03T00:00:00.000Z",
       "endsAt": "2026-12-06T00:00:00.000Z",
-      "fetchedAt": "2026-08-31T00:13:13Z"
+      "fetchedAt": "2026-09-01T01:00:18Z"
     },
     {
       "id": "odekake-GYpyfe4zEkQtisDq3P1d",
@@ -30,7 +40,7 @@
       "source": "おでかけKOBE",
       "startsAt": "2026-09-29T00:00:00.000Z",
       "endsAt": "2026-09-29T00:00:00.000Z",
-      "fetchedAt": "2026-08-31T00:12:04Z"
+      "fetchedAt": "2026-09-01T00:59:10Z"
     },
     {
       "id": "odekake-TSOarMMDOcphjrPfES82",
@@ -40,7 +50,7 @@
       "source": "おでかけKOBE",
       "startsAt": "2026-09-20T00:00:00.000Z",
       "endsAt": "2026-09-20T00:00:00.000Z",
-      "fetchedAt": "2026-08-31T00:12:56Z"
+      "fetchedAt": "2026-09-01T01:00:00Z"
     },
     {
       "id": "odekake-BfhJgDrSyJrgBBHp7evG",
@@ -50,7 +60,7 @@
       "source": "おでかけKOBE",
       "startsAt": "2026-09-19T00:00:00.000Z",
       "endsAt": "2026-09-19T00:00:00.000Z",
-      "fetchedAt": "2026-08-31T00:11:32Z"
+      "fetchedAt": "2026-09-01T00:58:37Z"
     },
     {
       "id": "odekake-9hK5LT6Fj8aKjyFXcM61",
@@ -60,7 +70,7 @@
       "source": "おでかけKOBE",
       "startsAt": "2026-09-19T00:00:00.000Z",
       "endsAt": "2026-09-19T00:00:00.000Z",
-      "fetchedAt": "2026-08-31T00:11:10Z"
+      "fetchedAt": "2026-09-01T00:58:26Z"
     },
     {
       "id": "odekake-jS7qrWdqN9d5kifdu0YV",
@@ -70,7 +80,7 @@
       "source": "おでかけKOBE",
       "startsAt": "2026-09-17T00:00:00.000Z",
       "endsAt": "2026-09-17T00:00:00.000Z",
-      "fetchedAt": "2026-08-31T00:12:18Z"
+      "fetchedAt": "2026-09-01T00:59:20Z"
     },
     {
       "id": "odekake-2cjEQu6upsDQvQSNXciT",
@@ -80,7 +90,7 @@
       "source": "おでかけKOBE",
       "startsAt": "2026-09-12T00:00:00.000Z",
       "endsAt": "2026-09-12T00:00:00.000Z",
-      "fetchedAt": "2026-08-31T00:10:52Z"
+      "fetchedAt": "2026-09-01T00:58:11Z"
     },
     {
       "id": "odekake-ExFfZTSeeh7zXZ5bQ7TI",
@@ -90,7 +100,7 @@
       "source": "おでかけKOBE",
       "startsAt": "2026-09-09T00:00:00.000Z",
       "endsAt": "2026-09-09T00:00:00.000Z",
-      "fetchedAt": "2026-08-31T00:11:57Z"
+      "fetchedAt": "2026-09-01T00:59:02Z"
     },
     {
       "id": "odekake-qvny5b6ueyxBhKlOVsG5",
@@ -100,7 +110,7 @@
       "source": "おでかけKOBE",
       "startsAt": "2026-09-08T00:00:00.000Z",
       "endsAt": "2026-09-08T00:00:00.000Z",
-      "fetchedAt": "2026-08-31T00:12:45Z"
+      "fetchedAt": "2026-09-01T00:59:49Z"
     },
     {
       "id": "odekake-t0ZzCJTvk3mqD2NnzB4P",
@@ -110,7 +120,7 @@
       "source": "おでかけKOBE",
       "startsAt": "2026-09-08T00:00:00.000Z",
       "endsAt": "2026-09-08T00:00:00.000Z",
-      "fetchedAt": "2026-08-31T00:12:53Z"
+      "fetchedAt": "2026-09-01T00:59:57Z"
     },
     {
       "id": "odekake-tsQzVXJKtrxviIQJEFRw",
@@ -120,7 +130,7 @@
       "source": "おでかけKOBE",
       "startsAt": "2026-09-08T00:00:00.000Z",
       "endsAt": "2026-09-08T00:00:00.000Z",
-      "fetchedAt": "2026-08-31T00:12:56Z"
+      "fetchedAt": "2026-09-01T01:00:00Z"
     },
     {
       "id": "odekake-koonMSztoKurusNsdytk",
@@ -130,7 +140,7 @@
       "source": "おでかけKOBE",
       "startsAt": "2026-09-03T00:00:00.000Z",
       "endsAt": "2026-09-03T00:00:00.000Z",
-      "fetchedAt": "2026-08-31T00:12:21Z"
+      "fetchedAt": "2026-09-01T00:59:27Z"
     },
     {
       "id": "odekake-Jf9pffvGdj1S0FYvX3JF",
@@ -280,7 +290,7 @@
       "source": "おでかけKOBE",
       "startsAt": "2026-07-18T00:00:00.000Z",
       "endsAt": "2026-09-26T00:00:00.000Z",
-      "fetchedAt": "2026-08-31T00:11:05Z"
+      "fetchedAt": "2026-09-01T00:58:22Z"
     },
     {
       "id": "patio-shopnews-3409",
