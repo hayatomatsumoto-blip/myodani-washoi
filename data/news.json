@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-05T23:36:16Z",
-  "count": 53,
+  "updatedAt": "2026-09-06T23:29:50Z",
+  "count": 56,
   "items": [
     {
       "id": "odekake-oPSsxj09TqLrIH85aQw2",
@@ -10,7 +10,27 @@
       "source": "おでかけKOBE",
       "startsAt": "2026-11-10T00:00:00.000Z",
       "endsAt": "2026-11-10T00:00:00.000Z",
-      "fetchedAt": "2026-09-05T23:35:28Z"
+      "fetchedAt": "2026-09-06T23:29:04Z"
+    },
+    {
+      "id": "odekake-IxtiGQtqsGwNkjKBQM0Y",
+      "title": "パパっこクラブ（10/31）",
+      "summary": "パパと一緒に、時にはダイナミックに時にはゆったりと…色んな遊びを楽しんでいます。 今月はパパと段ボール迷路を作ります♪",
+      "url": "https://event.city.kobe.lg.jp/event/IxtiGQtqsGwNkjKBQM0Y",
+      "source": "おでかけKOBE",
+      "startsAt": "2026-10-31T00:00:00.000Z",
+      "endsAt": "2026-10-31T00:00:00.000Z",
+      "fetchedAt": "2026-09-06T23:28:36Z"
+    },
+    {
+      "id": "odekake-riRXMhG4aurXifoiwoDL",
+      "title": "マタニティーママの日（10/27）",
+      "summary": "妊娠中のママが集まって、ゆったりとお茶を飲みながらお喋りしたり簡単なベビーの小物を作ったりしています。兄弟姉妹の参加もＯＫです♪",
+      "url": "https://event.city.kobe.lg.jp/event/riRXMhG4aurXifoiwoDL",
+      "source": "おでかけKOBE",
+      "startsAt": "2026-10-27T00:00:00.000Z",
+      "endsAt": "2026-10-27T00:00:00.000Z",
+      "fetchedAt": "2026-09-06T23:29:15Z"
     },
     {
       "id": "odekake-khNknIIKB34sXtP0IbKS",
@@ -20,7 +40,7 @@
       "source": "おでかけKOBE",
       "startsAt": "2026-10-13T00:00:00.000Z",
       "endsAt": "2026-10-13T00:00:00.000Z",
-      "fetchedAt": "2026-09-05T23:35:07Z"
+      "fetchedAt": "2026-09-06T23:28:44Z"
     },
     {
       "id": "odekake-Yb3VZrmXMl4IRExeAaHb",
@@ -30,7 +50,7 @@
       "source": "おでかけKOBE",
       "startsAt": "2026-10-03T00:00:00.000Z",
       "endsAt": "2026-12-06T00:00:00.000Z",
-      "fetchedAt": "2026-09-05T23:36:08Z"
+      "fetchedAt": "2026-09-06T23:29:42Z"
     },
     {
       "id": "odekake-XdjwTE4eOGCMAAxZ0Apb",
@@ -40,7 +60,7 @@
       "source": "おでかけKOBE",
       "startsAt": "2026-10-01T00:00:00.000Z",
       "endsAt": "2026-10-01T00:00:00.000Z",
-      "fetchedAt": "2026-09-05T23:36:04Z"
+      "fetchedAt": "2026-09-06T23:29:38Z"
     },
     {
       "id": "odekake-GYpyfe4zEkQtisDq3P1d",
@@ -50,7 +70,17 @@
       "source": "おでかけKOBE",
       "startsAt": "2026-09-29T00:00:00.000Z",
       "endsAt": "2026-09-29T00:00:00.000Z",
-      "fetchedAt": "2026-09-05T23:34:50Z"
+      "fetchedAt": "2026-09-06T23:28:25Z"
+    },
+    {
+      "id": "odekake-0DFy1KXIUst894k5Zvs5",
+      "title": "名谷図書館）音楽に合わせて秋のおはなし会 9月26日",
+      "summary": "神戸女子大学の学生さんと名谷図書館がコラボ！ 学生さんによるよみきかせと演奏をぜひ、楽しんでください！",
+      "url": "https://event.city.kobe.lg.jp/event/0DFy1KXIUst894k5Zvs5",
+      "source": "おでかけKOBE",
+      "startsAt": "2026-09-26T00:00:00.000Z",
+      "endsAt": "2026-09-26T00:00:00.000Z",
+      "fetchedAt": "2026-09-06T23:27:10Z"
     },
     {
       "id": "odekake-TSOarMMDOcphjrPfES82",
@@ -60,7 +90,7 @@
       "source": "おでかけKOBE",
       "startsAt": "2026-09-20T00:00:00.000Z",
       "endsAt": "2026-09-20T00:00:00.000Z",
-      "fetchedAt": "2026-09-05T23:35:50Z"
+      "fetchedAt": "2026-09-06T23:29:26Z"
     },
     {
       "id": "odekake-BfhJgDrSyJrgBBHp7evG",
@@ -70,7 +100,7 @@
       "source": "おでかけKOBE",
       "startsAt": "2026-09-19T00:00:00.000Z",
       "endsAt": "2026-09-19T00:00:00.000Z",
-      "fetchedAt": "2026-09-05T23:34:25Z"
+      "fetchedAt": "2026-09-06T23:27:59Z"
     },
     {
       "id": "odekake-9hK5LT6Fj8aKjyFXcM61",
@@ -80,7 +110,7 @@
       "source": "おでかけKOBE",
       "startsAt": "2026-09-19T00:00:00.000Z",
       "endsAt": "2026-09-19T00:00:00.000Z",
-      "fetchedAt": "2026-09-05T23:33:59Z"
+      "fetchedAt": "2026-09-06T23:27:36Z"
     },
     {
       "id": "odekake-jS7qrWdqN9d5kifdu0YV",
@@ -90,7 +120,7 @@
       "source": "おでかけKOBE",
       "startsAt": "2026-09-17T00:00:00.000Z",
       "endsAt": "2026-09-17T00:00:00.000Z",
-      "fetchedAt": "2026-09-05T23:35:03Z"
+      "fetchedAt": "2026-09-06T23:28:40Z"
     },
     {
       "id": "odekake-2cjEQu6upsDQvQSNXciT",
@@ -100,7 +130,7 @@
       "source": "おでかけKOBE",
       "startsAt": "2026-09-12T00:00:00.000Z",
       "endsAt": "2026-09-12T00:00:00.000Z",
-      "fetchedAt": "2026-09-05T23:33:42Z"
+      "fetchedAt": "2026-09-06T23:27:15Z"
     },
     {
       "id": "odekake-ExFfZTSeeh7zXZ5bQ7TI",
@@ -110,7 +140,7 @@
       "source": "おでかけKOBE",
       "startsAt": "2026-09-09T00:00:00.000Z",
       "endsAt": "2026-09-09T00:00:00.000Z",
-      "fetchedAt": "2026-09-05T23:34:45Z"
+      "fetchedAt": "2026-09-06T23:28:21Z"
     },
     {
       "id": "odekake-qvny5b6ueyxBhKlOVsG5",
@@ -120,7 +150,7 @@
       "source": "おでかけKOBE",
       "startsAt": "2026-09-08T00:00:00.000Z",
       "endsAt": "2026-09-08T00:00:00.000Z",
-      "fetchedAt": "2026-09-05T23:35:34Z"
+      "fetchedAt": "2026-09-06T23:29:11Z"
     },
     {
       "id": "odekake-t0ZzCJTvk3mqD2NnzB4P",
@@ -130,7 +160,7 @@
       "source": "おでかけKOBE",
       "startsAt": "2026-09-08T00:00:00.000Z",
       "endsAt": "2026-09-08T00:00:00.000Z",
-      "fetchedAt": "2026-09-05T23:35:46Z"
+      "fetchedAt": "2026-09-06T23:29:22Z"
     },
     {
       "id": "odekake-tsQzVXJKtrxviIQJEFRw",
@@ -140,7 +170,7 @@
       "source": "おでかけKOBE",
       "startsAt": "2026-09-08T00:00:00.000Z",
       "endsAt": "2026-09-08T00:00:00.000Z",
-      "fetchedAt": "2026-09-05T23:35:50Z"
+      "fetchedAt": "2026-09-06T23:29:26Z"
     },
     {
       "id": "odekake-koonMSztoKurusNsdytk",
@@ -300,7 +330,7 @@
       "source": "おでかけKOBE",
       "startsAt": "2026-07-18T00:00:00.000Z",
       "endsAt": "2026-09-26T00:00:00.000Z",
-      "fetchedAt": "2026-09-05T23:33:55Z"
+      "fetchedAt": "2026-09-06T23:27:31Z"
     },
     {
       "id": "patio-shopnews-3409",
@@ -534,6 +564,6 @@
     }
   ],
   "warnings": [
-    "patio: <urlopen error timed out>"
+    "patio: HTTP Error 403: Forbidden"
   ]
 }
