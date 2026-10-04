@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-03T00:58:22Z",
+  "updatedAt": "2026-10-04T00:24:51Z",
   "count": 73,
   "items": [
     {
@@ -10,7 +10,7 @@
       "source": "おでかけKOBE",
       "startsAt": "2026-12-08T00:00:00.000Z",
       "endsAt": "2026-12-08T00:00:00.000Z",
-      "fetchedAt": "2026-10-03T00:57:30Z"
+      "fetchedAt": "2026-10-04T00:23:54Z"
     },
     {
       "id": "odekake-COZDgEQqoMU44npCfCnZ",
@@ -20,7 +20,7 @@
       "source": "おでかけKOBE",
       "startsAt": "2026-11-22T00:00:00.000Z",
       "endsAt": "2026-11-22T00:00:00.000Z",
-      "fetchedAt": "2026-10-03T00:56:45Z"
+      "fetchedAt": "2026-10-04T00:23:04Z"
     },
     {
       "id": "odekake-HXdsbBK5Z2yxF0p4p8wR",
@@ -30,7 +30,7 @@
       "source": "おでかけKOBE",
       "startsAt": "2026-11-17T00:00:00.000Z",
       "endsAt": "2026-11-17T00:00:00.000Z",
-      "fetchedAt": "2026-10-03T00:57:08Z"
+      "fetchedAt": "2026-10-04T00:23:27Z"
     },
     {
       "id": "odekake-pnQUd2EAL7atdYSLEqT7",
@@ -40,7 +40,7 @@
       "source": "おでかけKOBE",
       "startsAt": "2026-11-11T00:00:00.000Z",
       "endsAt": "2026-11-11T00:00:00.000Z",
-      "fetchedAt": "2026-10-03T00:57:42Z"
+      "fetchedAt": "2026-10-04T00:24:05Z"
     },
     {
       "id": "odekake-oPSsxj09TqLrIH85aQw2",
@@ -50,17 +50,17 @@
       "source": "おでかけKOBE",
       "startsAt": "2026-11-10T00:00:00.000Z",
       "endsAt": "2026-11-10T00:00:00.000Z",
-      "fetchedAt": "2026-10-03T00:57:38Z"
+      "fetchedAt": "2026-10-04T00:24:01Z"
     },
     {
       "id": "odekake-x2j5Vw6LR3TjmR9UeUXK",
       "title": "交通フェスティバル2026in名谷車両基地",
-      "summary": "11月8日に「交通フェスティバル2026in名谷車両基地」を開催します。 普段は一般の方が立ち入ることのできない名谷車両基地にて地下鉄車両・バス車両の展示やグッズ販売などを行います。 2027年3月13日に地下鉄開業50年を迎えることから、地下鉄の50年を振り返る展示のほか地下鉄や市バスに親しみを持っていただける体験型企画をご用意しております。ぜひ、ご参加ください。",
+      "summary": "11月8日に「交通フェスティバル2026in名谷車両基地」を開催します。 普段は一般の方が立ち入ることのできない名谷車両基地にて地下鉄車両・バス車両の展示やグッズ販売などを行います。 2027年3月13日に地下鉄開業50年を迎えることから、地下鉄の50年を振り返る展示のほか「線路保守作業体験」や「保守車両車内見学」など地下鉄や市バスに親しみを持っていただける体験型企画をご用意しております。ぜひ、ご参加ください。",
       "url": "https://event.city.kobe.lg.jp/event/x2j5Vw6LR3TjmR9UeUXK",
       "source": "おでかけKOBE",
       "startsAt": "2026-11-08T00:00:00.000Z",
       "endsAt": "2026-11-08T00:00:00.000Z",
-      "fetchedAt": "2026-10-03T00:58:10Z"
+      "fetchedAt": "2026-10-04T00:24:37Z"
     },
     {
       "id": "odekake-Dr9jaQZLodvHE6ymZT4l",
@@ -70,7 +70,7 @@
       "source": "おでかけKOBE",
       "startsAt": "2026-11-07T00:00:00.000Z",
       "endsAt": "2026-11-07T00:00:00.000Z",
-      "fetchedAt": "2026-10-03T00:56:48Z"
+      "fetchedAt": "2026-10-04T00:23:08Z"
     },
     {
       "id": "odekake-fNIIxe9Mh1LBn99uEWIy",
@@ -80,7 +80,7 @@
       "source": "おでかけKOBE",
       "startsAt": "2026-11-07T00:00:00.000Z",
       "endsAt": "2026-11-07T00:00:00.000Z",
-      "fetchedAt": "2026-10-03T00:56:58Z"
+      "fetchedAt": "2026-10-04T00:23:20Z"
     },
     {
       "id": "odekake-KWMMNnDymzXJ0qXtkjyl",
@@ -90,7 +90,7 @@
       "source": "おでかけKOBE",
       "startsAt": "2026-11-07T00:00:00.000Z",
       "endsAt": "2026-11-07T00:00:00.000Z",
-      "fetchedAt": "2026-10-03T00:57:22Z"
+      "fetchedAt": "2026-10-04T00:23:42Z"
     },
     {
       "id": "odekake-LdtSJ50yczT7qI7nEmzB",
@@ -100,7 +100,7 @@
       "source": "おでかけKOBE",
       "startsAt": "2026-11-07T00:00:00.000Z",
       "endsAt": "2026-11-07T00:00:00.000Z",
-      "fetchedAt": "2026-10-03T00:57:23Z"
+      "fetchedAt": "2026-10-04T00:23:46Z"
     },
     {
       "id": "odekake-Lgtpg9K8xtt96Y4znKS8",
@@ -110,7 +110,7 @@
       "source": "おでかけKOBE",
       "startsAt": "2026-11-07T00:00:00.000Z",
       "endsAt": "2026-11-07T00:00:00.000Z",
-      "fetchedAt": "2026-10-03T00:57:24Z"
+      "fetchedAt": "2026-10-04T00:23:47Z"
     },
     {
       "id": "odekake-Zz2lMR7UdnNRnX7imh3J",
@@ -120,7 +120,7 @@
       "source": "おでかけKOBE",
       "startsAt": "2026-11-07T00:00:00.000Z",
       "endsAt": "2026-11-07T00:00:00.000Z",
-      "fetchedAt": "2026-10-03T00:58:22Z"
+      "fetchedAt": "2026-10-04T00:24:51Z"
     },
     {
       "id": "odekake-1yJaWPjqe6qu1R4EhvGG",
@@ -130,7 +130,7 @@
       "source": "おでかけKOBE",
       "startsAt": "2026-11-05T00:00:00.000Z",
       "endsAt": "2026-11-05T00:00:00.000Z",
-      "fetchedAt": "2026-10-03T00:55:54Z"
+      "fetchedAt": "2026-10-04T00:22:15Z"
     },
     {
       "id": "odekake-0ggrI0letJ4FZJeAQncz",
@@ -140,7 +140,7 @@
       "source": "おでかけKOBE",
       "startsAt": "2026-11-01T00:00:00.000Z",
       "endsAt": "2026-11-01T00:00:00.000Z",
-      "fetchedAt": "2026-10-03T00:55:47Z"
+      "fetchedAt": "2026-10-04T00:22:08Z"
     },
     {
       "id": "odekake-IxtiGQtqsGwNkjKBQM0Y",
@@ -150,7 +150,7 @@
       "source": "おでかけKOBE",
       "startsAt": "2026-10-31T00:00:00.000Z",
       "endsAt": "2026-10-31T00:00:00.000Z",
-      "fetchedAt": "2026-10-03T00:57:14Z"
+      "fetchedAt": "2026-10-04T00:23:34Z"
     },
     {
       "id": "odekake-riRXMhG4aurXifoiwoDL",
@@ -160,7 +160,7 @@
       "source": "おでかけKOBE",
       "startsAt": "2026-10-27T00:00:00.000Z",
       "endsAt": "2026-10-27T00:00:00.000Z",
-      "fetchedAt": "2026-10-03T00:57:49Z"
+      "fetchedAt": "2026-10-04T00:24:15Z"
     },
     {
       "id": "odekake-oEHvaFIBwzgpuhlfNvEU",
@@ -170,7 +170,7 @@
       "source": "おでかけKOBE",
       "startsAt": "2026-10-25T00:00:00.000Z",
       "endsAt": "2026-10-25T00:00:00.000Z",
-      "fetchedAt": "2026-10-03T00:57:37Z"
+      "fetchedAt": "2026-10-04T00:24:00Z"
     },
     {
       "id": "odekake-E4ygpYPaIGNiHDyTc3kD",
@@ -180,7 +180,7 @@
       "source": "おでかけKOBE",
       "startsAt": "2026-10-17T00:00:00.000Z",
       "endsAt": "2026-10-17T00:00:00.000Z",
-      "fetchedAt": "2026-10-03T00:56:49Z"
+      "fetchedAt": "2026-10-04T00:23:10Z"
     },
     {
       "id": "odekake-K2GlyUji8tu2BnL5MZ3Y",
@@ -190,7 +190,7 @@
       "source": "おでかけKOBE",
       "startsAt": "2026-10-15T00:00:00.000Z",
       "endsAt": "2026-10-15T00:00:00.000Z",
-      "fetchedAt": "2026-10-03T00:57:17Z"
+      "fetchedAt": "2026-10-04T00:23:37Z"
     },
     {
       "id": "odekake-khNknIIKB34sXtP0IbKS",
@@ -200,7 +200,7 @@
       "source": "おでかけKOBE",
       "startsAt": "2026-10-13T00:00:00.000Z",
       "endsAt": "2026-10-13T00:00:00.000Z",
-      "fetchedAt": "2026-10-03T00:57:21Z"
+      "fetchedAt": "2026-10-04T00:23:39Z"
     },
     {
       "id": "odekake-FvNeAgxPKSOCDo6lLGwi",
@@ -210,7 +210,7 @@
       "source": "おでかけKOBE",
       "startsAt": "2026-10-10T00:00:00.000Z",
       "endsAt": "2026-10-10T00:00:00.000Z",
-      "fetchedAt": "2026-10-03T00:56:59Z"
+      "fetchedAt": "2026-10-04T00:23:21Z"
     },
     {
       "id": "odekake-Yb3VZrmXMl4IRExeAaHb",
@@ -220,7 +220,7 @@
       "source": "おでかけKOBE",
       "startsAt": "2026-10-03T00:00:00.000Z",
       "endsAt": "2026-12-06T00:00:00.000Z",
-      "fetchedAt": "2026-10-03T00:58:14Z"
+      "fetchedAt": "2026-10-04T00:24:43Z"
     },
     {
       "id": "odekake-XdjwTE4eOGCMAAxZ0Apb",
