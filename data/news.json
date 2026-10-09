@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-08T01:35:03Z",
-  "count": 73,
+  "updatedAt": "2026-10-09T01:45:53Z",
+  "count": 77,
   "items": [
     {
       "id": "odekake-mG29RHfFTOT1TdjBsGRL",
@@ -10,7 +10,27 @@
       "source": "おでかけKOBE",
       "startsAt": "2026-12-08T00:00:00.000Z",
       "endsAt": "2026-12-08T00:00:00.000Z",
-      "fetchedAt": "2026-10-08T01:34:07Z"
+      "fetchedAt": "2026-10-09T01:44:51Z"
+    },
+    {
+      "id": "odekake-zKdpbnbkZZWcWRMySvl7",
+      "title": "お正月に飾ろう「しめ飾りワークショップ」",
+      "summary": "稲わらのお話とともに、お正月のしめ飾りづくりを教えてもらいます。 ぜひ、ご参加ください。",
+      "url": "https://event.city.kobe.lg.jp/event/zKdpbnbkZZWcWRMySvl7",
+      "source": "おでかけKOBE",
+      "startsAt": "2026-11-28T00:00:00.000Z",
+      "endsAt": "2026-11-28T00:00:00.000Z",
+      "fetchedAt": "2026-10-09T01:45:50Z"
+    },
+    {
+      "id": "odekake-tKApsxW07uulFBLq3kfP",
+      "title": "マタニティーママの日（11/24）",
+      "summary": "妊娠中のママが集まって、ゆったりとお茶を飲みながらお喋りしたり簡単なベビーの小物を作ったりしています。兄弟姉妹の参加もＯＫです♪",
+      "url": "https://event.city.kobe.lg.jp/event/tKApsxW07uulFBLq3kfP",
+      "source": "おでかけKOBE",
+      "startsAt": "2026-11-24T00:00:00.000Z",
+      "endsAt": "2026-11-24T00:00:00.000Z",
+      "fetchedAt": "2026-10-09T01:45:21Z"
     },
     {
       "id": "odekake-COZDgEQqoMU44npCfCnZ",
@@ -20,7 +40,7 @@
       "source": "おでかけKOBE",
       "startsAt": "2026-11-22T00:00:00.000Z",
       "endsAt": "2026-11-22T00:00:00.000Z",
-      "fetchedAt": "2026-10-08T01:33:23Z"
+      "fetchedAt": "2026-10-09T01:43:59Z"
     },
     {
       "id": "odekake-HXdsbBK5Z2yxF0p4p8wR",
@@ -30,7 +50,17 @@
       "source": "おでかけKOBE",
       "startsAt": "2026-11-17T00:00:00.000Z",
       "endsAt": "2026-11-17T00:00:00.000Z",
-      "fetchedAt": "2026-10-08T01:33:45Z"
+      "fetchedAt": "2026-10-09T01:44:25Z"
+    },
+    {
+      "id": "odekake-rq7R4t5WJ3JG5dwoVVE3",
+      "title": "手づくり広場すましあ",
+      "summary": "須磨区内の障害福祉サービス事業所による手づくり製品販売会、手づくり広場「すましあ」を開催いたします。「すましあ」とは、「すま（須磨）」と「シア（＝島々）」を併せた造語で、島々をめぐるようにお店を回り、買い物を楽しみながらふれあいを深めて欲しいとの願いが込められています。音楽やダンスなどのステージイベントや手話にふれることができるミニ手話講座や、お子さまにも楽しんでいただけるミニゲームなどのプログラムも予定しています。すまぼうもやってきて会場を盛り上げてくれます。",
+      "url": "https://event.city.kobe.lg.jp/event/rq7R4t5WJ3JG5dwoVVE3",
+      "source": "おでかけKOBE",
+      "startsAt": "2026-11-14T00:00:00.000Z",
+      "endsAt": "2026-11-14T00:00:00.000Z",
+      "fetchedAt": "2026-10-09T01:45:15Z"
     },
     {
       "id": "odekake-pnQUd2EAL7atdYSLEqT7",
@@ -40,7 +70,7 @@
       "source": "おでかけKOBE",
       "startsAt": "2026-11-11T00:00:00.000Z",
       "endsAt": "2026-11-11T00:00:00.000Z",
-      "fetchedAt": "2026-10-08T01:34:18Z"
+      "fetchedAt": "2026-10-09T01:45:04Z"
     },
     {
       "id": "odekake-oPSsxj09TqLrIH85aQw2",
@@ -50,7 +80,7 @@
       "source": "おでかけKOBE",
       "startsAt": "2026-11-10T00:00:00.000Z",
       "endsAt": "2026-11-10T00:00:00.000Z",
-      "fetchedAt": "2026-10-08T01:34:14Z"
+      "fetchedAt": "2026-10-09T01:44:59Z"
     },
     {
       "id": "odekake-x2j5Vw6LR3TjmR9UeUXK",
@@ -60,7 +90,7 @@
       "source": "おでかけKOBE",
       "startsAt": "2026-11-08T00:00:00.000Z",
       "endsAt": "2026-11-08T00:00:00.000Z",
-      "fetchedAt": "2026-10-08T01:34:48Z"
+      "fetchedAt": "2026-10-09T01:45:37Z"
     },
     {
       "id": "odekake-Dr9jaQZLodvHE6ymZT4l",
@@ -70,7 +100,7 @@
       "source": "おでかけKOBE",
       "startsAt": "2026-11-07T00:00:00.000Z",
       "endsAt": "2026-11-07T00:00:00.000Z",
-      "fetchedAt": "2026-10-08T01:33:28Z"
+      "fetchedAt": "2026-10-09T01:44:04Z"
     },
     {
       "id": "odekake-fNIIxe9Mh1LBn99uEWIy",
@@ -80,7 +110,7 @@
       "source": "おでかけKOBE",
       "startsAt": "2026-11-07T00:00:00.000Z",
       "endsAt": "2026-11-07T00:00:00.000Z",
-      "fetchedAt": "2026-10-08T01:33:38Z"
+      "fetchedAt": "2026-10-09T01:44:15Z"
     },
     {
       "id": "odekake-KWMMNnDymzXJ0qXtkjyl",
@@ -90,7 +120,7 @@
       "source": "おでかけKOBE",
       "startsAt": "2026-11-07T00:00:00.000Z",
       "endsAt": "2026-11-07T00:00:00.000Z",
-      "fetchedAt": "2026-10-08T01:34:00Z"
+      "fetchedAt": "2026-10-09T01:44:41Z"
     },
     {
       "id": "odekake-LdtSJ50yczT7qI7nEmzB",
@@ -100,7 +130,7 @@
       "source": "おでかけKOBE",
       "startsAt": "2026-11-07T00:00:00.000Z",
       "endsAt": "2026-11-07T00:00:00.000Z",
-      "fetchedAt": "2026-10-08T01:34:02Z"
+      "fetchedAt": "2026-10-09T01:44:43Z"
     },
     {
       "id": "odekake-Lgtpg9K8xtt96Y4znKS8",
@@ -110,7 +140,7 @@
       "source": "おでかけKOBE",
       "startsAt": "2026-11-07T00:00:00.000Z",
       "endsAt": "2026-11-07T00:00:00.000Z",
-      "fetchedAt": "2026-10-08T01:34:03Z"
+      "fetchedAt": "2026-10-09T01:44:46Z"
     },
     {
       "id": "odekake-Zz2lMR7UdnNRnX7imh3J",
@@ -120,7 +150,7 @@
       "source": "おでかけKOBE",
       "startsAt": "2026-11-07T00:00:00.000Z",
       "endsAt": "2026-11-07T00:00:00.000Z",
-      "fetchedAt": "2026-10-08T01:35:03Z"
+      "fetchedAt": "2026-10-09T01:45:53Z"
     },
     {
       "id": "odekake-1yJaWPjqe6qu1R4EhvGG",
@@ -130,7 +160,7 @@
       "source": "おでかけKOBE",
       "startsAt": "2026-11-05T00:00:00.000Z",
       "endsAt": "2026-11-05T00:00:00.000Z",
-      "fetchedAt": "2026-10-08T01:32:33Z"
+      "fetchedAt": "2026-10-09T01:43:07Z"
     },
     {
       "id": "odekake-0ggrI0letJ4FZJeAQncz",
@@ -140,7 +170,7 @@
       "source": "おでかけKOBE",
       "startsAt": "2026-11-01T00:00:00.000Z",
       "endsAt": "2026-11-01T00:00:00.000Z",
-      "fetchedAt": "2026-10-08T01:32:28Z"
+      "fetchedAt": "2026-10-09T01:43:00Z"
     },
     {
       "id": "odekake-IxtiGQtqsGwNkjKBQM0Y",
@@ -150,7 +180,7 @@
       "source": "おでかけKOBE",
       "startsAt": "2026-10-31T00:00:00.000Z",
       "endsAt": "2026-10-31T00:00:00.000Z",
-      "fetchedAt": "2026-10-08T01:33:52Z"
+      "fetchedAt": "2026-10-09T01:44:31Z"
     },
     {
       "id": "odekake-riRXMhG4aurXifoiwoDL",
@@ -160,7 +190,7 @@
       "source": "おでかけKOBE",
       "startsAt": "2026-10-27T00:00:00.000Z",
       "endsAt": "2026-10-27T00:00:00.000Z",
-      "fetchedAt": "2026-10-08T01:34:26Z"
+      "fetchedAt": "2026-10-09T01:45:13Z"
     },
     {
       "id": "odekake-oEHvaFIBwzgpuhlfNvEU",
@@ -170,7 +200,7 @@
       "source": "おでかけKOBE",
       "startsAt": "2026-10-25T00:00:00.000Z",
       "endsAt": "2026-10-25T00:00:00.000Z",
-      "fetchedAt": "2026-10-08T01:34:13Z"
+      "fetchedAt": "2026-10-09T01:44:57Z"
     },
     {
       "id": "odekake-E4ygpYPaIGNiHDyTc3kD",
@@ -180,7 +210,7 @@
       "source": "おでかけKOBE",
       "startsAt": "2026-10-17T00:00:00.000Z",
       "endsAt": "2026-10-17T00:00:00.000Z",
-      "fetchedAt": "2026-10-08T01:33:31Z"
+      "fetchedAt": "2026-10-09T01:44:05Z"
     },
     {
       "id": "odekake-K2GlyUji8tu2BnL5MZ3Y",
@@ -190,7 +220,7 @@
       "source": "おでかけKOBE",
       "startsAt": "2026-10-15T00:00:00.000Z",
       "endsAt": "2026-10-15T00:00:00.000Z",
-      "fetchedAt": "2026-10-08T01:33:56Z"
+      "fetchedAt": "2026-10-09T01:44:38Z"
     },
     {
       "id": "odekake-khNknIIKB34sXtP0IbKS",
@@ -200,7 +230,7 @@
       "source": "おでかけKOBE",
       "startsAt": "2026-10-13T00:00:00.000Z",
       "endsAt": "2026-10-13T00:00:00.000Z",
-      "fetchedAt": "2026-10-08T01:33:57Z"
+      "fetchedAt": "2026-10-09T01:44:39Z"
     },
     {
       "id": "odekake-FvNeAgxPKSOCDo6lLGwi",
@@ -210,7 +240,17 @@
       "source": "おでかけKOBE",
       "startsAt": "2026-10-10T00:00:00.000Z",
       "endsAt": "2026-10-10T00:00:00.000Z",
-      "fetchedAt": "2026-10-08T01:33:38Z"
+      "fetchedAt": "2026-10-09T01:44:16Z"
+    },
+    {
+      "id": "odekake-LWbh0CLzf7Wo24zKhkW1",
+      "title": "須磨離宮公園 第9回キッズダンスin離宮",
+      "summary": "須磨で活動するキッズダンスチームが日頃の練習の成果を発表するステージイベント「キッズダンスin離宮」を開催します。 ゲストには、例年ご参加いただいている神戸出身のアイドルグループKOBerrieS♪ をお迎えします。 須磨の子供たちの元気なパフォーマンスをぜひご覧ください。 ステージスケジュール 11:00～ KOBerrieS♪ 11:30～ エスパティオスポーツクラブ 11:50～ アストロキッズダンス 12:10～ E's Dance Crew 12:30～ studio Avid. 13:30～ DANCE TEAM AQUA 13:45～ Ch",
+      "url": "https://event.city.kobe.lg.jp/event/LWbh0CLzf7Wo24zKhkW1",
+      "source": "おでかけKOBE",
+      "startsAt": "2026-10-10T00:00:00.000Z",
+      "endsAt": "2026-10-10T00:00:00.000Z",
+      "fetchedAt": "2026-10-09T01:44:48Z"
     },
     {
       "id": "odekake-Yb3VZrmXMl4IRExeAaHb",
@@ -220,7 +260,7 @@
       "source": "おでかけKOBE",
       "startsAt": "2026-10-03T00:00:00.000Z",
       "endsAt": "2026-12-06T00:00:00.000Z",
-      "fetchedAt": "2026-10-08T01:34:53Z"
+      "fetchedAt": "2026-10-09T01:45:43Z"
     },
     {
       "id": "odekake-XdjwTE4eOGCMAAxZ0Apb",
