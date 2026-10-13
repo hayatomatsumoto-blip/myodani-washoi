@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-12T00:59:19Z",
-  "count": 79,
+  "updatedAt": "2026-10-13T02:52:21Z",
+  "count": 80,
   "items": [
     {
       "id": "odekake-mG29RHfFTOT1TdjBsGRL",
@@ -10,7 +10,7 @@
       "source": "おでかけKOBE",
       "startsAt": "2026-12-08T00:00:00.000Z",
       "endsAt": "2026-12-08T00:00:00.000Z",
-      "fetchedAt": "2026-10-12T00:58:26Z"
+      "fetchedAt": "2026-10-13T02:51:20Z"
     },
     {
       "id": "odekake-zKdpbnbkZZWcWRMySvl7",
@@ -20,7 +20,7 @@
       "source": "おでかけKOBE",
       "startsAt": "2026-11-28T00:00:00.000Z",
       "endsAt": "2026-11-28T00:00:00.000Z",
-      "fetchedAt": "2026-10-12T00:59:17Z"
+      "fetchedAt": "2026-10-13T02:52:18Z"
     },
     {
       "id": "odekake-tKApsxW07uulFBLq3kfP",
@@ -30,7 +30,7 @@
       "source": "おでかけKOBE",
       "startsAt": "2026-11-24T00:00:00.000Z",
       "endsAt": "2026-11-24T00:00:00.000Z",
-      "fetchedAt": "2026-10-12T00:58:53Z"
+      "fetchedAt": "2026-10-13T02:51:52Z"
     },
     {
       "id": "odekake-COZDgEQqoMU44npCfCnZ",
@@ -40,7 +40,17 @@
       "source": "おでかけKOBE",
       "startsAt": "2026-11-22T00:00:00.000Z",
       "endsAt": "2026-11-22T00:00:00.000Z",
-      "fetchedAt": "2026-10-12T00:57:34Z"
+      "fetchedAt": "2026-10-13T02:50:21Z"
+    },
+    {
+      "id": "odekake-ir5WQh91vAmDciyDXGT8",
+      "title": "多井畑西地区里地里山再生活動体験会（第１回）",
+      "summary": "須磨区と垂水区にまたがり、都市に近い「多井畑西地区」において、まち中に残された自然の中で、実践的に里山再生を学べる体験会を開催します。 今回は、竹を伐採して、運び出し、DIYにチャレンジ！４回にわたって資材置き場や小物を作ります。 道具の貸し出しや専門家のサポートもあるので、初めての方も安心してご参加いただけます。",
+      "url": "https://event.city.kobe.lg.jp/event/ir5WQh91vAmDciyDXGT8",
+      "source": "おでかけKOBE",
+      "startsAt": "2026-11-22T00:00:00.000Z",
+      "endsAt": "2026-11-22T00:00:00.000Z",
+      "fetchedAt": "2026-10-13T02:50:58Z"
     },
     {
       "id": "odekake-HXdsbBK5Z2yxF0p4p8wR",
@@ -50,7 +60,7 @@
       "source": "おでかけKOBE",
       "startsAt": "2026-11-17T00:00:00.000Z",
       "endsAt": "2026-11-17T00:00:00.000Z",
-      "fetchedAt": "2026-10-12T00:58:00Z"
+      "fetchedAt": "2026-10-13T02:50:52Z"
     },
     {
       "id": "odekake-rq7R4t5WJ3JG5dwoVVE3",
@@ -60,7 +70,7 @@
       "source": "おでかけKOBE",
       "startsAt": "2026-11-14T00:00:00.000Z",
       "endsAt": "2026-11-14T00:00:00.000Z",
-      "fetchedAt": "2026-10-12T00:58:45Z"
+      "fetchedAt": "2026-10-13T02:51:45Z"
     },
     {
       "id": "odekake-syaFhQTkLFgIY1JzbqQ4",
@@ -70,7 +80,7 @@
       "source": "おでかけKOBE",
       "startsAt": "2026-11-14T00:00:00.000Z",
       "endsAt": "2026-11-14T00:00:00.000Z",
-      "fetchedAt": "2026-10-12T00:58:50Z"
+      "fetchedAt": "2026-10-13T02:51:50Z"
     },
     {
       "id": "odekake-pnQUd2EAL7atdYSLEqT7",
@@ -80,7 +90,7 @@
       "source": "おでかけKOBE",
       "startsAt": "2026-11-11T00:00:00.000Z",
       "endsAt": "2026-11-11T00:00:00.000Z",
-      "fetchedAt": "2026-10-12T00:58:37Z"
+      "fetchedAt": "2026-10-13T02:51:34Z"
     },
     {
       "id": "odekake-oPSsxj09TqLrIH85aQw2",
@@ -90,7 +100,7 @@
       "source": "おでかけKOBE",
       "startsAt": "2026-11-10T00:00:00.000Z",
       "endsAt": "2026-11-10T00:00:00.000Z",
-      "fetchedAt": "2026-10-12T00:58:33Z"
+      "fetchedAt": "2026-10-13T02:51:28Z"
     },
     {
       "id": "odekake-x2j5Vw6LR3TjmR9UeUXK",
@@ -100,7 +110,7 @@
       "source": "おでかけKOBE",
       "startsAt": "2026-11-08T00:00:00.000Z",
       "endsAt": "2026-11-08T00:00:00.000Z",
-      "fetchedAt": "2026-10-12T00:59:06Z"
+      "fetchedAt": "2026-10-13T02:52:05Z"
     },
     {
       "id": "odekake-Dr9jaQZLodvHE6ymZT4l",
@@ -110,7 +120,7 @@
       "source": "おでかけKOBE",
       "startsAt": "2026-11-07T00:00:00.000Z",
       "endsAt": "2026-11-07T00:00:00.000Z",
-      "fetchedAt": "2026-10-12T00:57:40Z"
+      "fetchedAt": "2026-10-13T02:50:29Z"
     },
     {
       "id": "odekake-fNIIxe9Mh1LBn99uEWIy",
@@ -120,7 +130,7 @@
       "source": "おでかけKOBE",
       "startsAt": "2026-11-07T00:00:00.000Z",
       "endsAt": "2026-11-07T00:00:00.000Z",
-      "fetchedAt": "2026-10-12T00:57:53Z"
+      "fetchedAt": "2026-10-13T02:50:42Z"
     },
     {
       "id": "odekake-KWMMNnDymzXJ0qXtkjyl",
@@ -130,7 +140,7 @@
       "source": "おでかけKOBE",
       "startsAt": "2026-11-07T00:00:00.000Z",
       "endsAt": "2026-11-07T00:00:00.000Z",
-      "fetchedAt": "2026-10-12T00:58:17Z"
+      "fetchedAt": "2026-10-13T02:51:11Z"
     },
     {
       "id": "odekake-LdtSJ50yczT7qI7nEmzB",
@@ -140,7 +150,7 @@
       "source": "おでかけKOBE",
       "startsAt": "2026-11-07T00:00:00.000Z",
       "endsAt": "2026-11-07T00:00:00.000Z",
-      "fetchedAt": "2026-10-12T00:58:19Z"
+      "fetchedAt": "2026-10-13T02:51:14Z"
     },
     {
       "id": "odekake-Lgtpg9K8xtt96Y4znKS8",
@@ -150,7 +160,7 @@
       "source": "おでかけKOBE",
       "startsAt": "2026-11-07T00:00:00.000Z",
       "endsAt": "2026-11-07T00:00:00.000Z",
-      "fetchedAt": "2026-10-12T00:58:20Z"
+      "fetchedAt": "2026-10-13T02:51:15Z"
     },
     {
       "id": "odekake-Zz2lMR7UdnNRnX7imh3J",
@@ -160,7 +170,7 @@
       "source": "おでかけKOBE",
       "startsAt": "2026-11-07T00:00:00.000Z",
       "endsAt": "2026-11-07T00:00:00.000Z",
-      "fetchedAt": "2026-10-12T00:59:19Z"
+      "fetchedAt": "2026-10-13T02:52:21Z"
     },
     {
       "id": "odekake-1yJaWPjqe6qu1R4EhvGG",
@@ -170,7 +180,7 @@
       "source": "おでかけKOBE",
       "startsAt": "2026-11-05T00:00:00.000Z",
       "endsAt": "2026-11-05T00:00:00.000Z",
-      "fetchedAt": "2026-10-12T00:56:37Z"
+      "fetchedAt": "2026-10-13T02:49:34Z"
     },
     {
       "id": "odekake-RMbQbLItVJiIdfYdmmDL",
@@ -180,7 +190,7 @@
       "source": "おでかけKOBE",
       "startsAt": "2026-11-03T00:00:00.000Z",
       "endsAt": "2026-11-03T00:00:00.000Z",
-      "fetchedAt": "2026-10-12T00:58:44Z"
+      "fetchedAt": "2026-10-13T02:51:44Z"
     },
     {
       "id": "odekake-0ggrI0letJ4FZJeAQncz",
@@ -190,7 +200,7 @@
       "source": "おでかけKOBE",
       "startsAt": "2026-11-01T00:00:00.000Z",
       "endsAt": "2026-11-01T00:00:00.000Z",
-      "fetchedAt": "2026-10-12T00:56:34Z"
+      "fetchedAt": "2026-10-13T02:49:24Z"
     },
     {
       "id": "odekake-IxtiGQtqsGwNkjKBQM0Y",
@@ -200,7 +210,7 @@
       "source": "おでかけKOBE",
       "startsAt": "2026-10-31T00:00:00.000Z",
       "endsAt": "2026-10-31T00:00:00.000Z",
-      "fetchedAt": "2026-10-12T00:58:08Z"
+      "fetchedAt": "2026-10-13T02:51:01Z"
     },
     {
       "id": "odekake-riRXMhG4aurXifoiwoDL",
@@ -210,7 +220,7 @@
       "source": "おでかけKOBE",
       "startsAt": "2026-10-27T00:00:00.000Z",
       "endsAt": "2026-10-27T00:00:00.000Z",
-      "fetchedAt": "2026-10-12T00:58:44Z"
+      "fetchedAt": "2026-10-13T02:51:43Z"
     },
     {
       "id": "odekake-oEHvaFIBwzgpuhlfNvEU",
@@ -220,7 +230,7 @@
       "source": "おでかけKOBE",
       "startsAt": "2026-10-25T00:00:00.000Z",
       "endsAt": "2026-10-25T00:00:00.000Z",
-      "fetchedAt": "2026-10-12T00:58:31Z"
+      "fetchedAt": "2026-10-13T02:51:25Z"
     },
     {
       "id": "odekake-E4ygpYPaIGNiHDyTc3kD",
@@ -230,7 +240,7 @@
       "source": "おでかけKOBE",
       "startsAt": "2026-10-17T00:00:00.000Z",
       "endsAt": "2026-10-17T00:00:00.000Z",
-      "fetchedAt": "2026-10-12T00:57:43Z"
+      "fetchedAt": "2026-10-13T02:50:32Z"
     },
     {
       "id": "odekake-K2GlyUji8tu2BnL5MZ3Y",
@@ -240,7 +250,7 @@
       "source": "おでかけKOBE",
       "startsAt": "2026-10-15T00:00:00.000Z",
       "endsAt": "2026-10-15T00:00:00.000Z",
-      "fetchedAt": "2026-10-12T00:58:12Z"
+      "fetchedAt": "2026-10-13T02:51:06Z"
     },
     {
       "id": "odekake-khNknIIKB34sXtP0IbKS",
@@ -250,7 +260,7 @@
       "source": "おでかけKOBE",
       "startsAt": "2026-10-13T00:00:00.000Z",
       "endsAt": "2026-10-13T00:00:00.000Z",
-      "fetchedAt": "2026-10-12T00:58:15Z"
+      "fetchedAt": "2026-10-13T02:51:08Z"
     },
     {
       "id": "odekake-FvNeAgxPKSOCDo6lLGwi",
@@ -280,7 +290,7 @@
       "source": "おでかけKOBE",
       "startsAt": "2026-10-03T00:00:00.000Z",
       "endsAt": "2026-12-06T00:00:00.000Z",
-      "fetchedAt": "2026-10-12T00:59:11Z"
+      "fetchedAt": "2026-10-13T02:52:11Z"
     },
     {
       "id": "odekake-XdjwTE4eOGCMAAxZ0Apb",
